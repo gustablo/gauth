@@ -1,0 +1,1 @@
+export { GAuth } from './application';
